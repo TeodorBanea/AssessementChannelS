@@ -5,4 +5,4 @@ This project is making use of the Apify SDK CheerioCrawler to crawl through mult
 -The stock status of the product.
 
 The input urls are provided in apify_storage\key_value_stores\default\input.json.
-The data is saved in apify_storage\key_value
+The data is saved in apify_storage\key_value_stores\default\output.json.
