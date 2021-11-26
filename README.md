@@ -1,9 +1,9 @@
 
 This project is making use of the Apify SDK CheerioCrawler to crawl through multiple product pages and save the following data in a json file format.
 
-    -The product url page;
-
     -The product title;
+
+    -The product url;
 
     -The product price;
 
