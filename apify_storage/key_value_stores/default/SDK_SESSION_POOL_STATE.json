@@ -3,7 +3,7 @@
   "retiredSessionsCount": 0,
   "sessions": [
     {
-      "id": "session_5wPkApWEZk",
+      "id": "session_bA4IGRaWiH",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -11,92 +11,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.186Z",
-            "lastAccessed": "2021-11-25T19:28:10.186Z"
+            "creation": "2021-11-26T00:10:00.075Z",
+            "lastAccessed": "2021-11-26T00:10:00.075Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "co71fonf3p78i9a2t9agefn2e8",
-            "expires": "2021-11-26T07:28:07.000Z",
+            "value": "kquqlqlc48u5k126n6smsqp60j",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.187Z",
-            "lastAccessed": "2021-11-25T19:28:10.187Z",
+            "creation": "2021-11-26T00:10:00.075Z",
+            "lastAccessed": "2021-11-26T00:10:00.075Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868487.237-c72b40df09d28ba552a18b9a0d3356a5a4fdde33",
-            "expires": "2041-11-20T19:28:07.000Z",
+            "value": "1637885397.385-b64f49c0e44c3a9361c7d6b8206c12f9822a3110",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.187Z",
-            "lastAccessed": "2021-11-25T19:28:10.187Z"
+            "creation": "2021-11-26T00:10:00.076Z",
+            "lastAccessed": "2021-11-26T00:10:00.076Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-98552841-78450.196",
-            "expires": "2024-11-24T19:28:07.000Z",
+            "value": "1637885397-221688497-20408.536",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.188Z",
-            "lastAccessed": "2021-11-25T19:28:10.188Z"
+            "creation": "2021-11-26T00:10:00.076Z",
+            "lastAccessed": "2021-11-26T00:10:00.076Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.9325272517.1637868487",
-            "expires": "2023-11-25T19:28:07.000Z",
+            "value": "GA1.2.9933608216.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.188Z",
-            "lastAccessed": "2021-11-25T19:28:10.188Z"
+            "creation": "2021-11-26T00:10:00.076Z",
+            "lastAccessed": "2021-11-26T00:10:00.076Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-82562.700-98552841",
-            "expires": "2021-11-26T00:28:07.000Z",
+            "value": "1637885397-11648.842-221688497",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.190Z",
-            "lastAccessed": "2021-11-25T19:28:10.190Z"
+            "creation": "2021-11-26T00:10:00.076Z",
+            "lastAccessed": "2021-11-26T00:10:00.076Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:07.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.190Z",
-            "lastAccessed": "2021-11-25T19:28:10.190Z"
+            "creation": "2021-11-26T00:10:00.077Z",
+            "lastAccessed": "2021-11-26T00:10:00.077Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.292Z",
-      "createdAt": "2021-11-25T19:28:09.292Z",
+      "expiresAt": "2021-11-26T00:59:59.489Z",
+      "createdAt": "2021-11-26T00:09:59.489Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_tZy364YVzn",
+      "id": "session_XveNoZAzGS",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -104,92 +104,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.369Z",
-            "lastAccessed": "2021-11-25T19:28:10.369Z"
+            "creation": "2021-11-26T00:09:59.984Z",
+            "lastAccessed": "2021-11-26T00:09:59.984Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "qeu8gimdu4dotp7d7q6rujvc7k",
-            "expires": "2021-11-26T07:28:07.000Z",
+            "value": "l593q3kfspjejnp2ad4lebfpao",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.370Z",
-            "lastAccessed": "2021-11-25T19:28:10.370Z",
+            "creation": "2021-11-26T00:09:59.986Z",
+            "lastAccessed": "2021-11-26T00:09:59.988Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868487.450-3ed9c1bf1dfaf06ac16b03594b53c9daa7b1d926",
-            "expires": "2041-11-20T19:28:07.000Z",
+            "value": "1637885397.339-99ae1fadeb587ce8f0d709245fd8c94ef34f25ab",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.371Z",
-            "lastAccessed": "2021-11-25T19:28:10.371Z"
+            "creation": "2021-11-26T00:09:59.989Z",
+            "lastAccessed": "2021-11-26T00:09:59.989Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-184722978-24004.335",
-            "expires": "2024-11-24T19:28:07.000Z",
+            "value": "1637885397-220580135-73657.673",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.371Z",
-            "lastAccessed": "2021-11-25T19:28:10.371Z"
+            "creation": "2021-11-26T00:09:59.989Z",
+            "lastAccessed": "2021-11-26T00:09:59.989Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.6187648859.1637868487",
-            "expires": "2023-11-25T19:28:07.000Z",
+            "value": "GA1.2.5139119134.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.371Z",
-            "lastAccessed": "2021-11-25T19:28:10.371Z"
+            "creation": "2021-11-26T00:09:59.990Z",
+            "lastAccessed": "2021-11-26T00:09:59.990Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-5961.072-184722978",
-            "expires": "2021-11-26T00:28:07.000Z",
+            "value": "1637885397-99963.895-220580135",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.371Z",
-            "lastAccessed": "2021-11-25T19:28:10.371Z"
+            "creation": "2021-11-26T00:09:59.990Z",
+            "lastAccessed": "2021-11-26T00:09:59.990Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:07.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.372Z",
-            "lastAccessed": "2021-11-25T19:28:10.372Z"
+            "creation": "2021-11-26T00:09:59.990Z",
+            "lastAccessed": "2021-11-26T00:09:59.990Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.320Z",
-      "createdAt": "2021-11-25T19:28:09.320Z",
+      "expiresAt": "2021-11-26T00:59:59.519Z",
+      "createdAt": "2021-11-26T00:09:59.519Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_gATsDjHpXv",
+      "id": "session_Iy3ardmjDj",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -197,92 +197,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.922Z",
-            "lastAccessed": "2021-11-25T19:28:09.922Z"
+            "creation": "2021-11-26T00:10:00.747Z",
+            "lastAccessed": "2021-11-26T00:10:00.747Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "kv0h9s4q7taldskep8tsjecvu5",
-            "expires": "2021-11-26T07:28:06.000Z",
+            "value": "tvengmjdai0qchno0vkq4p4uqe",
+            "expires": "2021-11-26T12:09:58.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.926Z",
-            "lastAccessed": "2021-11-25T19:28:09.927Z",
+            "creation": "2021-11-26T00:10:00.747Z",
+            "lastAccessed": "2021-11-26T00:10:00.748Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868486.974-b83331b580c4606d700ee7772691e2f5b7b8f47d",
-            "expires": "2041-11-20T19:28:06.000Z",
+            "value": "1637885398.196-8fa85ef8f5e9b1fbc222ca2760f71571916906ed",
+            "expires": "2041-11-21T00:09:58.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.927Z",
-            "lastAccessed": "2021-11-25T19:28:09.927Z"
+            "creation": "2021-11-26T00:10:00.748Z",
+            "lastAccessed": "2021-11-26T00:10:00.748Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-515470266-66441.109",
-            "expires": "2024-11-24T19:28:06.000Z",
+            "value": "1637885397-542395234-81690.908",
+            "expires": "2024-11-25T00:09:58.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.929Z",
-            "lastAccessed": "2021-11-25T19:28:09.929Z"
+            "creation": "2021-11-26T00:10:00.748Z",
+            "lastAccessed": "2021-11-26T00:10:00.748Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.7932259603.1637868487",
-            "expires": "2023-11-25T19:28:06.000Z",
+            "value": "GA1.2.3699808138.1637885398",
+            "expires": "2023-11-26T00:09:58.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.930Z",
-            "lastAccessed": "2021-11-25T19:28:09.930Z"
+            "creation": "2021-11-26T00:10:00.749Z",
+            "lastAccessed": "2021-11-26T00:10:00.749Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-70409.881-515470266",
-            "expires": "2021-11-26T00:28:06.000Z",
+            "value": "1637885398-68902.964-542395234",
+            "expires": "2021-11-26T05:09:58.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.930Z",
-            "lastAccessed": "2021-11-25T19:28:09.930Z"
+            "creation": "2021-11-26T00:10:00.749Z",
+            "lastAccessed": "2021-11-26T00:10:00.749Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:06.000Z",
+            "expires": "2021-12-26T00:09:58.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.930Z",
-            "lastAccessed": "2021-11-25T19:28:09.930Z"
+            "creation": "2021-11-26T00:10:00.749Z",
+            "lastAccessed": "2021-11-26T00:10:00.749Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.324Z",
-      "createdAt": "2021-11-25T19:28:09.324Z",
+      "expiresAt": "2021-11-26T00:59:59.523Z",
+      "createdAt": "2021-11-26T00:09:59.523Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_SOb5oTkrz4",
+      "id": "session_ieuYMyig9k",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -290,92 +290,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.948Z",
-            "lastAccessed": "2021-11-25T19:28:09.948Z"
+            "creation": "2021-11-26T00:10:00.089Z",
+            "lastAccessed": "2021-11-26T00:10:00.089Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "sitbm68dp1aqdbkfqqlmuifg5b",
-            "expires": "2021-11-26T07:28:06.000Z",
+            "value": "3kkqrolpdi1jgtf1tg0mbcl0f1",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.949Z",
-            "lastAccessed": "2021-11-25T19:28:09.949Z",
+            "creation": "2021-11-26T00:10:00.089Z",
+            "lastAccessed": "2021-11-26T00:10:00.090Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868486.931-6f4b9438df6b234caba22836200e199ffd069bae",
-            "expires": "2041-11-20T19:28:06.000Z",
+            "value": "1637885397.389-854cacf93b36f55f292de762f1deba6d7f90c37b",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.949Z",
-            "lastAccessed": "2021-11-25T19:28:09.949Z"
+            "creation": "2021-11-26T00:10:00.090Z",
+            "lastAccessed": "2021-11-26T00:10:00.090Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-116080735-91861.527",
-            "expires": "2024-11-24T19:28:06.000Z",
+            "value": "1637885397-130513106-63886.899",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.950Z",
-            "lastAccessed": "2021-11-25T19:28:09.950Z"
+            "creation": "2021-11-26T00:10:00.090Z",
+            "lastAccessed": "2021-11-26T00:10:00.090Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.2095450729.1637868487",
-            "expires": "2023-11-25T19:28:06.000Z",
+            "value": "GA1.2.7003042644.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.950Z",
-            "lastAccessed": "2021-11-25T19:28:09.950Z"
+            "creation": "2021-11-26T00:10:00.091Z",
+            "lastAccessed": "2021-11-26T00:10:00.091Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-7165.670-116080735",
-            "expires": "2021-11-26T00:28:06.000Z",
+            "value": "1637885397-62341.202-130513106",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.950Z",
-            "lastAccessed": "2021-11-25T19:28:09.950Z"
+            "creation": "2021-11-26T00:10:00.091Z",
+            "lastAccessed": "2021-11-26T00:10:00.091Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:06.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.951Z",
-            "lastAccessed": "2021-11-25T19:28:09.951Z"
+            "creation": "2021-11-26T00:10:00.091Z",
+            "lastAccessed": "2021-11-26T00:10:00.091Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.327Z",
-      "createdAt": "2021-11-25T19:28:09.327Z",
+      "expiresAt": "2021-11-26T00:59:59.527Z",
+      "createdAt": "2021-11-26T00:09:59.527Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_i6GPRYKgnJ",
+      "id": "session_AJsJgygexv",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -383,92 +383,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.997Z",
-            "lastAccessed": "2021-11-25T19:28:09.997Z"
+            "creation": "2021-11-26T00:10:00.011Z",
+            "lastAccessed": "2021-11-26T00:10:00.011Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "q8s61hdsf54fsvdq4b1ls784nv",
-            "expires": "2021-11-26T07:28:07.000Z",
+            "value": "9uj73vrbs4e9ot7prmsrs03e3m",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.997Z",
-            "lastAccessed": "2021-11-25T19:28:09.998Z",
+            "creation": "2021-11-26T00:10:00.012Z",
+            "lastAccessed": "2021-11-26T00:10:00.012Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868487.019-f73b18bce3c15377c56d80cdc74dcc91504c001e",
-            "expires": "2041-11-20T19:28:07.000Z",
+            "value": "1637885397.348-1bf52f3753c22e09a644f4390e6710ba6e983cf6",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.998Z",
-            "lastAccessed": "2021-11-25T19:28:09.998Z"
+            "creation": "2021-11-26T00:10:00.012Z",
+            "lastAccessed": "2021-11-26T00:10:00.012Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-108877646-32111.751",
-            "expires": "2024-11-24T19:28:07.000Z",
+            "value": "1637885397-131075578-89641.622",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.998Z",
-            "lastAccessed": "2021-11-25T19:28:09.998Z"
+            "creation": "2021-11-26T00:10:00.013Z",
+            "lastAccessed": "2021-11-26T00:10:00.013Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.6648540334.1637868487",
-            "expires": "2023-11-25T19:28:07.000Z",
+            "value": "GA1.2.8541656079.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.999Z",
-            "lastAccessed": "2021-11-25T19:28:09.999Z"
+            "creation": "2021-11-26T00:10:00.013Z",
+            "lastAccessed": "2021-11-26T00:10:00.013Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-31833.609-108877646",
-            "expires": "2021-11-26T00:28:07.000Z",
+            "value": "1637885397-23907.030-131075578",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.000Z",
-            "lastAccessed": "2021-11-25T19:28:10.000Z"
+            "creation": "2021-11-26T00:10:00.013Z",
+            "lastAccessed": "2021-11-26T00:10:00.013Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:07.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.001Z",
-            "lastAccessed": "2021-11-25T19:28:10.001Z"
+            "creation": "2021-11-26T00:10:00.013Z",
+            "lastAccessed": "2021-11-26T00:10:00.013Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.333Z",
-      "createdAt": "2021-11-25T19:28:09.333Z",
+      "expiresAt": "2021-11-26T00:59:59.532Z",
+      "createdAt": "2021-11-26T00:09:59.532Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_yUOMmhGo23",
+      "id": "session_UakZl2EUpr",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -476,92 +476,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.982Z",
-            "lastAccessed": "2021-11-25T19:28:09.982Z"
+            "creation": "2021-11-26T00:10:00.063Z",
+            "lastAccessed": "2021-11-26T00:10:00.063Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "g0m8p9reo2hperkdq7biqpl7co",
-            "expires": "2021-11-26T07:28:07.000Z",
+            "value": "10b0prrteah3i013sqpkbmorr2",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.983Z",
-            "lastAccessed": "2021-11-25T19:28:09.983Z",
+            "creation": "2021-11-26T00:10:00.063Z",
+            "lastAccessed": "2021-11-26T00:10:00.063Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868487.019-55bbb79b2f63670090c844705306c3f298cff138",
-            "expires": "2041-11-20T19:28:07.000Z",
+            "value": "1637885397.397-cd60817d658283381e5690a4b373a4eeeac23c63",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.984Z",
-            "lastAccessed": "2021-11-25T19:28:09.984Z"
+            "creation": "2021-11-26T00:10:00.064Z",
+            "lastAccessed": "2021-11-26T00:10:00.064Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-200159009-73680.333",
-            "expires": "2024-11-24T19:28:07.000Z",
+            "value": "1637885397-223810124-76462.470",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.984Z",
-            "lastAccessed": "2021-11-25T19:28:09.984Z"
+            "creation": "2021-11-26T00:10:00.064Z",
+            "lastAccessed": "2021-11-26T00:10:00.064Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.7119335401.1637868487",
-            "expires": "2023-11-25T19:28:07.000Z",
+            "value": "GA1.2.4708271909.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.984Z",
-            "lastAccessed": "2021-11-25T19:28:09.984Z"
+            "creation": "2021-11-26T00:10:00.064Z",
+            "lastAccessed": "2021-11-26T00:10:00.064Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-64674.241-200159009",
-            "expires": "2021-11-26T00:28:07.000Z",
+            "value": "1637885397-16669.203-223810124",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.985Z",
-            "lastAccessed": "2021-11-25T19:28:09.985Z"
+            "creation": "2021-11-26T00:10:00.064Z",
+            "lastAccessed": "2021-11-26T00:10:00.064Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:07.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.985Z",
-            "lastAccessed": "2021-11-25T19:28:09.985Z"
+            "creation": "2021-11-26T00:10:00.065Z",
+            "lastAccessed": "2021-11-26T00:10:00.065Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.337Z",
-      "createdAt": "2021-11-25T19:28:09.337Z",
+      "expiresAt": "2021-11-26T00:59:59.534Z",
+      "createdAt": "2021-11-26T00:09:59.534Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_JVZy75NuJb",
+      "id": "session_ilWTsOzGSl",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -569,92 +569,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.019Z",
-            "lastAccessed": "2021-11-25T19:28:10.019Z"
+            "creation": "2021-11-26T00:10:00.082Z",
+            "lastAccessed": "2021-11-26T00:10:00.082Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "m0c4h8ijle2ooca99it062hquu",
-            "expires": "2021-11-26T07:28:07.000Z",
+            "value": "ifs4uqe05f2frl6p1h2hjt0mgk",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.020Z",
-            "lastAccessed": "2021-11-25T19:28:10.020Z",
+            "creation": "2021-11-26T00:10:00.082Z",
+            "lastAccessed": "2021-11-26T00:10:00.082Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868487.125-e0d3f09967139b13be7c02c44caf044b552fbca6",
-            "expires": "2041-11-20T19:28:07.000Z",
+            "value": "1637885397.415-31616d2fe0bfc8ce7c141a58453286b55d948173",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.020Z",
-            "lastAccessed": "2021-11-25T19:28:10.020Z"
+            "creation": "2021-11-26T00:10:00.082Z",
+            "lastAccessed": "2021-11-26T00:10:00.082Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-188806493-27477.280",
-            "expires": "2024-11-24T19:28:07.000Z",
+            "value": "1637885397-222961487-14317.835",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.021Z",
-            "lastAccessed": "2021-11-25T19:28:10.021Z"
+            "creation": "2021-11-26T00:10:00.083Z",
+            "lastAccessed": "2021-11-26T00:10:00.083Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.7651198031.1637868487",
-            "expires": "2023-11-25T19:28:07.000Z",
+            "value": "GA1.2.9787426739.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.021Z",
-            "lastAccessed": "2021-11-25T19:28:10.021Z"
+            "creation": "2021-11-26T00:10:00.083Z",
+            "lastAccessed": "2021-11-26T00:10:00.083Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-85455.115-188806493",
-            "expires": "2021-11-26T00:28:07.000Z",
+            "value": "1637885397-30895.256-222961487",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.021Z",
-            "lastAccessed": "2021-11-25T19:28:10.021Z"
+            "creation": "2021-11-26T00:10:00.083Z",
+            "lastAccessed": "2021-11-26T00:10:00.083Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:07.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.021Z",
-            "lastAccessed": "2021-11-25T19:28:10.021Z"
+            "creation": "2021-11-26T00:10:00.083Z",
+            "lastAccessed": "2021-11-26T00:10:00.083Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.339Z",
-      "createdAt": "2021-11-25T19:28:09.339Z",
+      "expiresAt": "2021-11-26T00:59:59.537Z",
+      "createdAt": "2021-11-26T00:09:59.537Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_HpKo1ZF0VH",
+      "id": "session_lgNLjIzO4I",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -662,92 +662,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.154Z",
-            "lastAccessed": "2021-11-25T19:28:10.154Z"
+            "creation": "2021-11-26T00:10:00.037Z",
+            "lastAccessed": "2021-11-26T00:10:00.037Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "sbk6g5u1c2ienvdvc3lpnn09ko",
-            "expires": "2021-11-26T07:28:07.000Z",
+            "value": "gdbvnvtb77094sh8vp6lo4iqph",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.155Z",
-            "lastAccessed": "2021-11-25T19:28:10.155Z",
+            "creation": "2021-11-26T00:10:00.038Z",
+            "lastAccessed": "2021-11-26T00:10:00.038Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868487.234-c2e8c0204b919100549e20f929ad1f0839b3e156",
-            "expires": "2041-11-20T19:28:07.000Z",
+            "value": "1637885397.373-eb9811b5a52245688edc2055d9aa7e9144eade23",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.155Z",
-            "lastAccessed": "2021-11-25T19:28:10.155Z"
+            "creation": "2021-11-26T00:10:00.038Z",
+            "lastAccessed": "2021-11-26T00:10:00.038Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-112866379-59521.945",
-            "expires": "2024-11-24T19:28:07.000Z",
+            "value": "1637885397-134137363-64431.345",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.156Z",
-            "lastAccessed": "2021-11-25T19:28:10.156Z"
+            "creation": "2021-11-26T00:10:00.038Z",
+            "lastAccessed": "2021-11-26T00:10:00.038Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.7770271203.1637868487",
-            "expires": "2023-11-25T19:28:07.000Z",
+            "value": "GA1.2.3177742062.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.156Z",
-            "lastAccessed": "2021-11-25T19:28:10.156Z"
+            "creation": "2021-11-26T00:10:00.039Z",
+            "lastAccessed": "2021-11-26T00:10:00.039Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-8800.965-112866379",
-            "expires": "2021-11-26T00:28:07.000Z",
+            "value": "1637885397-11209.354-134137363",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.156Z",
-            "lastAccessed": "2021-11-25T19:28:10.156Z"
+            "creation": "2021-11-26T00:10:00.039Z",
+            "lastAccessed": "2021-11-26T00:10:00.039Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:07.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.156Z",
-            "lastAccessed": "2021-11-25T19:28:10.156Z"
+            "creation": "2021-11-26T00:10:00.039Z",
+            "lastAccessed": "2021-11-26T00:10:00.039Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.342Z",
-      "createdAt": "2021-11-25T19:28:09.342Z",
+      "expiresAt": "2021-11-26T00:59:59.539Z",
+      "createdAt": "2021-11-26T00:09:59.539Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_6ljEVoejcI",
+      "id": "session_JJqz2N1sBZ",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -755,92 +755,92 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.991Z",
-            "lastAccessed": "2021-11-25T19:28:09.991Z"
+            "creation": "2021-11-26T00:10:00.120Z",
+            "lastAccessed": "2021-11-26T00:10:00.120Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "p2t36jfv1e4gr872enikreb9m1",
-            "expires": "2021-11-26T07:28:06.000Z",
+            "value": "k158g7p9sfiaqq9md32h6nchu7",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.991Z",
-            "lastAccessed": "2021-11-25T19:28:09.992Z",
+            "creation": "2021-11-26T00:10:00.121Z",
+            "lastAccessed": "2021-11-26T00:10:00.121Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868486.988-83ccbaca9f4bbe2fe302a91a5efacbb17b156e0c",
-            "expires": "2041-11-20T19:28:06.000Z",
+            "value": "1637885397.494-2b394095fc475625b34c1549c5a940957ea5f42e",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.992Z",
-            "lastAccessed": "2021-11-25T19:28:09.992Z"
+            "creation": "2021-11-26T00:10:00.121Z",
+            "lastAccessed": "2021-11-26T00:10:00.121Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-191841128-64981.633",
-            "expires": "2024-11-24T19:28:06.000Z",
+            "value": "1637885397-223127700-49064.961",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.992Z",
-            "lastAccessed": "2021-11-25T19:28:09.992Z"
+            "creation": "2021-11-26T00:10:00.122Z",
+            "lastAccessed": "2021-11-26T00:10:00.122Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.8944008419.1637868487",
-            "expires": "2023-11-25T19:28:06.000Z",
+            "value": "GA1.2.8480467401.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.992Z",
-            "lastAccessed": "2021-11-25T19:28:09.992Z"
+            "creation": "2021-11-26T00:10:00.122Z",
+            "lastAccessed": "2021-11-26T00:10:00.122Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-41599.258-191841128",
-            "expires": "2021-11-26T00:28:06.000Z",
+            "value": "1637885397-76192.983-223127700",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.993Z",
-            "lastAccessed": "2021-11-25T19:28:09.993Z"
+            "creation": "2021-11-26T00:10:00.122Z",
+            "lastAccessed": "2021-11-26T00:10:00.122Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:06.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:09.993Z",
-            "lastAccessed": "2021-11-25T19:28:09.993Z"
+            "creation": "2021-11-26T00:10:00.122Z",
+            "lastAccessed": "2021-11-26T00:10:00.122Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.344Z",
-      "createdAt": "2021-11-25T19:28:09.344Z",
+      "expiresAt": "2021-11-26T00:59:59.542Z",
+      "createdAt": "2021-11-26T00:09:59.542Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_7YD5lbNfN9",
+      "id": "session_SOh06luZKN",
       "cookieJar": {
         "version": "tough-cookie@4.0.0",
         "storeType": "MemoryCookieStore",
@@ -848,86 +848,86 @@
         "cookies": [
           {
             "key": "EMAGVISITOR",
-            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132875879242379227%3B%7D",
-            "expires": "2031-11-23T19:28:06.000Z",
+            "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2132907532926029257%3B%7D",
+            "expires": "2031-11-24T00:09:57.000Z",
             "maxAge": 315360000,
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.179Z",
-            "lastAccessed": "2021-11-25T19:28:10.179Z"
+            "creation": "2021-11-26T00:10:00.103Z",
+            "lastAccessed": "2021-11-26T00:10:00.103Z"
           },
           {
             "key": "EMAGROSESSID",
-            "value": "vd1jbce6e3r1t3072r6qpl3i71",
-            "expires": "2021-11-26T07:28:07.000Z",
+            "value": "lo71l6mimu0ukg0m4jjj0vkv9r",
+            "expires": "2021-11-26T12:09:57.000Z",
             "maxAge": 43200,
             "domain": "emag.ro",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.179Z",
-            "lastAccessed": "2021-11-25T19:28:10.180Z",
+            "creation": "2021-11-26T00:10:00.103Z",
+            "lastAccessed": "2021-11-26T00:10:00.103Z",
             "sameSite": "lax"
           },
           {
             "key": "ltuid",
-            "value": "1637868487.240-a7d102dc9e6b5bb7ec03643349199f96f62ff9be",
-            "expires": "2041-11-20T19:28:07.000Z",
+            "value": "1637885397.407-eb8975e78d38f6f8e0769df72808a5f4653307dd",
+            "expires": "2041-11-21T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.180Z",
-            "lastAccessed": "2021-11-25T19:28:10.180Z"
+            "creation": "2021-11-26T00:10:00.104Z",
+            "lastAccessed": "2021-11-26T00:10:00.104Z"
           },
           {
             "key": "EMAGUUID",
-            "value": "1637868487-516449497-15579.274",
-            "expires": "2024-11-24T19:28:07.000Z",
+            "value": "1637885397-546413181-66592.428",
+            "expires": "2024-11-25T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.181Z",
-            "lastAccessed": "2021-11-25T19:28:10.181Z"
+            "creation": "2021-11-26T00:10:00.104Z",
+            "lastAccessed": "2021-11-26T00:10:00.104Z"
           },
           {
             "key": "_pdr_internal",
-            "value": "GA1.2.4902755195.1637868487",
-            "expires": "2023-11-25T19:28:07.000Z",
+            "value": "GA1.2.9308164016.1637885397",
+            "expires": "2023-11-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.181Z",
-            "lastAccessed": "2021-11-25T19:28:10.181Z"
+            "creation": "2021-11-26T00:10:00.104Z",
+            "lastAccessed": "2021-11-26T00:10:00.104Z"
           },
           {
             "key": "_pdr_view_id",
-            "value": "1637868487-68861.686-516449497",
-            "expires": "2021-11-26T00:28:07.000Z",
+            "value": "1637885397-45470.254-546413181",
+            "expires": "2021-11-26T05:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.181Z",
-            "lastAccessed": "2021-11-25T19:28:10.181Z"
+            "creation": "2021-11-26T00:10:00.104Z",
+            "lastAccessed": "2021-11-26T00:10:00.104Z"
           },
           {
             "key": "site_version_11",
             "value": "not_mobile",
-            "expires": "2021-12-25T19:28:07.000Z",
+            "expires": "2021-12-26T00:09:57.000Z",
             "domain": "emag.ro",
             "path": "/",
             "hostOnly": false,
-            "creation": "2021-11-25T19:28:10.182Z",
-            "lastAccessed": "2021-11-25T19:28:10.182Z"
+            "creation": "2021-11-26T00:10:00.105Z",
+            "lastAccessed": "2021-11-26T00:10:00.105Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2021-11-25T20:18:09.348Z",
-      "createdAt": "2021-11-25T19:28:09.348Z",
+      "expiresAt": "2021-11-26T00:59:59.544Z",
+      "createdAt": "2021-11-26T00:09:59.544Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0
